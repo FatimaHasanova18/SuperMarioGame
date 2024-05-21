@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">gfdh</string>
+    <string name="retry">Retry</string>
+    <string name="left">Left:</string>
+    <string name="score">Score:</string>
+    <string name="replay">REPLAY</string>
+    <string name="finished">Finished</string>
+    <string name="mario_s_photo">mario\'s photo</string>
+</resources>
